@@ -1,0 +1,8 @@
+# Versioning and metadata
+.dockerignore
+
+# Build dependencies
+node_modules
+
+# Environment
+.env
